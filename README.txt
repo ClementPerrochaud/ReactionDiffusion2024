@@ -56,4 +56,5 @@ Afin de mettre a jour cette derniere, on utilise de concert :
 
 
 Des exemples de quelques experiences que j'ai pu faire sont disponibles ici :
-https://www.youtube.com/playlist?list=PLNxIiz0IZK3XILOeDTxwUfrKPnDf9D7ve
+...
+
